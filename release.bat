@@ -1,0 +1,1 @@
+copy /b K:\LOVE\love.exe+"game\VisiChess.love" VisiChess.exe
